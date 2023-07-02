@@ -14,7 +14,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className='bg-polly font-body text-white'>
+      <body className='font-body text-white bg-[#001C30]'>
         <header>
          <Navbar/>
         </header>
